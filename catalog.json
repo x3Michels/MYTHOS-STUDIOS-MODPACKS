@@ -1,0 +1,30 @@
+{
+  "modpacks": [
+    {
+      "id": "mythos",
+      "nombre": "M-YTHOS",
+      "version": "1.0.0",
+      "mrpack": "https://github.com/x3Michels/MYTHOS-STUDIOS-MODPACKS/releases/download/1.0.0/mythos.mrpack",
+      "sha256": "LO COMPLETA publicar.bat SOLO",
+      "banner": "https://raw.githubusercontent.com/x3Michels/MYTHOS-STUDIOS-MODPACKS/main/assets/mythos/banner.png",
+      "icono": "https://raw.githubusercontent.com/x3Michels/MYTHOS-STUDIOS-MODPACKS/main/assets/mythos/icon.png",
+      "fondos": [
+        "https://raw.githubusercontent.com/x3Michels/MYTHOS-STUDIOS-MODPACKS/main/assets/mythos/fondo-1.png"
+      ],
+      "info": "Minecraft 1.21.11 · Fabric"
+    },
+    {
+      "id": "deather",
+      "nombre": "Deather",
+      "version": "1.0.0",
+      "mrpack": "https://github.com/x3Michels/MYTHOS-STUDIOS-MODPACKS/releases/download/1.0.0/deather.mrpack",
+      "sha256": "LO COMPLETA publicar.bat SOLO",
+      "banner": "https://raw.githubusercontent.com/x3Michels/MYTHOS-STUDIOS-MODPACKS/main/assets/deather/banner.png",
+      "icono": "https://raw.githubusercontent.com/x3Michels/MYTHOS-STUDIOS-MODPACKS/main/assets/deather/icon.png",
+      "fondos": [
+        "https://raw.githubusercontent.com/x3Michels/MYTHOS-STUDIOS-MODPACKS/main/assets/deather/fondo-1.png"
+      ],
+      "info": "Minecraft 1.21.11 · Fabric"
+    }
+  ]
+}
